@@ -1,35 +1,30 @@
-🌦️ Weather BI Dashboard (API-Driven)
+
+#   🌦️ Weather BI Dashboard (API-Driven)
 
 
 
-📌 Project Overview
+
+### 📌 Project Overview
 
 This project delivers an interactive Business Intelligence dashboard built using real-time weather and air-quality data fetched from a public API.The dashboard provides current conditions, 7-day forecasts, air quality insights, and city-wise comparisons to support quick, data-driven decisions.
 
-🎯 Objectives
+### 🎯 Objectives
 
 
-  Ingest real-time weather data using APIs.
-      
-  Transform semi-structured JSON data into analytical tables.
-      
-  Visualize current weather conditions and short-term forecasts.
-      
-  Monitor Air Quality Index (AQI) and health impact levels.
-      
-  Build a clean, user-friendly BI dashboard.
+  - Ingest real-time weather data using APIs.    
+  - Transform semi-structured JSON data into analytical tables.   
+  - Visualize current weather conditions and short-term forecasts.  
+  - Monitor Air Quality Index (AQI) and health impact levels. 
+  - Build a clean, user-friendly BI dashboard.
 
-🗂️ Data Source
+### 🗂️ Data Source
 
   Public Weather API
-  
   Data format: JSON
-  
   Refresh type: Manual / scheduled refresh supported
 
 
-🛠️ Tools & Technologies
-
+### 🛠️ Tools & Technologies
 
 Python – API integration & data preprocessing.
 
@@ -40,7 +35,7 @@ Power BI – Dashboard development.
 Power Query – Data modeling & cleaning.
 
 
-🔄 Project Workflow
+### 🔄 Project Workflow
 
 Extract weather and AQI data using API calls
 
@@ -53,19 +48,19 @@ Load transformed data into Power BI
 Create interactive visuals and KPIs
 
 
-📊 Dashboard Preview
+## 📊 Dashboard Preview
+![Alt text](https://github.com/username/repo/assets/image.png)
+
+## 📈 Dashboard Features
 
 
-📈 Dashboard Features
-
-
-🌍 Location-Based Analysis
+### 🌍 Location-Based Analysis
 
 City selection (Mumbai, Nagpur, Pune)
 City-specific weather metrics
 
 
-🌡️ Current Weather KPIs
+### 🌡️ Current Weather KPIs
 
 
 Temperature (°C)
@@ -82,14 +77,14 @@ Visibility
 
 Precipitation
 
-📅 7-Day Forecast
+### 📅 7-Day Forecast
 
 
 Day-wise temperature trend visualization
 
 Helps identify short-term climate patterns
 
-🌅 Solar Information
+### 🌅 Solar Information
 
 
 Sunrise & Sunset timings
@@ -100,12 +95,12 @@ PM2.5, PM10, CO, NO₂, SO₂, O₃
 
 Health classification: Unhealthy for Sensitive Groups.
 
-🌧️ Rain Probability
+### 🌧️ Rain Probability
 
 
 Day-wise chances of rainfall (%).
 
-🔍 Key Insights
+### 🔍 Key Insights
 
 
 Pune shows clear weather with moderate temperature (~28°C).
@@ -117,7 +112,7 @@ Temperature peaks mid-week before stabilizing.
 Low precipitation probability suggests dry conditions.
 
 
-💡 Business Value
+### 💡 Business Value
 
 
 Enables quick interpretation of weather conditions.
@@ -126,10 +121,6 @@ Supports planning for travel, outdoor activities, and operations.
 
 Highlights air quality risks for health-sensitive users.
 
-
-Shreenshot / Demo
-
-Show what the dashboards  looks like.
 
 
 
