@@ -49,7 +49,9 @@ Create interactive visuals and KPIs
 
 
 ## 📊 Dashboard Preview
-![Alt text](https://github.com/username/repo/assets/image.png)
+
+![App Screenshot](https://github.com/Rajendra-0/Data/blob/main/Dashboaed%20Sshot.png)
+
 
 ## 📈 Dashboard Features
 
